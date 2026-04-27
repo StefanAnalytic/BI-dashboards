@@ -4,6 +4,13 @@
 
 ## Preview
 
+https://github.com/user-attachments/assets/a80b74ca-1649-4059-9423-d99d0ff8a43e
+
+<img width="1787" height="932" alt="PowerBI" src="https://github.com/user-attachments/assets/409022d5-a250-49f5-b1ca-dc019ee9b206" />
+
+<img width="1786" height="1043" alt="Google Data Studio" src="https://github.com/user-attachments/assets/08bf6165-93a6-4fda-b986-9cb0e7010171" />
+
+<img width="1094" height="872" alt="Tableau" src="https://github.com/user-attachments/assets/667359e3-6778-4c38-9db8-f0c3dd609356" />
 
 ***
 
