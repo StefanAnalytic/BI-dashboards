@@ -3,17 +3,15 @@
 **Philosophie:** Maximaler Informationsgehalt, absolutes Minimum an Rauschen. Jeder Pixel hat einen Zweck.
 
 ## Preview
-<div align="center">
-  <video controls width="100%">
-    <source src="Dashboard%20Vorschau/HTML.mp4" type="video/mp4">
-    Ihr Browser unterstützt kein Video-Tag.
-  </video>
-  <br><br>
-  
-  <img src="Dashboard%20Vorschau/Google%20Data%20Studio.png" alt="Google Data Studio - Marketing" width="100%"/><br>
-  <img src="Dashboard%20Vorschau/PowerBI.png" alt="PowerBI - Einkauf" width="100%"/><br>
-  <img src="Dashboard%20Vorschau/Tableau.png" alt="Tableau - Produktion" width="100%"/>
-</div>
+<video controls width="100%">
+  <source src="Dashboard%20Vorschau/HTML.mp4" type="video/mp4">
+  Ihr Browser unterstützt das Video-Tag nicht.
+</video>
+<br><br>
+
+![Google Data Studio - Marketing](Dashboard%20Vorschau/Google%20Data%20Studio.png)
+![PowerBI - Einkauf](Dashboard%20Vorschau/PowerBI.png)
+![Tableau - Produktion](Dashboard%20Vorschau/Tableau.png)
 
 ***
 
