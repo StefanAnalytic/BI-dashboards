@@ -1,0 +1,12 @@
+# Python-Müll
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Mac OS-Systemdateien
+.DS_Store
+
+# Datenbanken (Falls du die .db Dateien nicht hochladen willst, da die Skripte sie eh generieren)
+# *.db
